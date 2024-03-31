@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "m1VXWnaoR0+wEkkddY7SWMoou0EKokCY7zuY9KEJ5tM=",
-  "Source": "WeatherServer",
-  "BasePath": "_content/WeatherServer",
+  "Hash": "s0FXdezM4hKCIhmbw2SCXl6Xp1wsZjTQcBhB+zm5cSI=",
+  "Source": "MusicServer",
+  "BasePath": "_content/MusicServer",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

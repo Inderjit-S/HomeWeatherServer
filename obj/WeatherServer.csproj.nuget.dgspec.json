@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bkaur\\source\\repos\\WeatherServer\\WeatherServer.csproj": {}
+    "C:\\Users\\bkaur\\source\\repos\\HomeWeatherServer\\WeatherServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bkaur\\source\\repos\\WeatherServer\\WeatherServer.csproj": {
+    "C:\\Users\\bkaur\\source\\repos\\HomeWeatherServer\\WeatherServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bkaur\\source\\repos\\WeatherServer\\WeatherServer.csproj",
+        "projectUniqueName": "C:\\Users\\bkaur\\source\\repos\\HomeWeatherServer\\WeatherServer.csproj",
         "projectName": "WeatherServer",
-        "projectPath": "C:\\Users\\bkaur\\source\\repos\\WeatherServer\\WeatherServer.csproj",
+        "projectPath": "C:\\Users\\bkaur\\source\\repos\\HomeWeatherServer\\WeatherServer.csproj",
         "packagesPath": "C:\\Users\\bkaur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bkaur\\source\\repos\\WeatherServer\\obj\\",
+        "outputPath": "C:\\Users\\bkaur\\source\\repos\\HomeWeatherServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bkaur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

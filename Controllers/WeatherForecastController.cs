@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace WeatherServer.Controllers
+namespace MusicServer.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

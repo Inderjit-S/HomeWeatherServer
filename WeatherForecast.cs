@@ -1,4 +1,4 @@
-namespace WeatherServer
+namespace MusicServer
 {
     public class WeatherForecast
     {

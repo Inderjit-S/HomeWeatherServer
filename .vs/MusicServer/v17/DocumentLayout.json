@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|c:\\users\\bkaur\\source\\repos\\musicserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bkaur\\AppData\\Roaming\\Microsoft\\UserSecrets\\0a570993-8d2e-422d-be6d-a5e7b2a8301d\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|c:\\users\\bkaur\\source\\repos\\musicserver\\weatherserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|solutionrelative:weatherserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|c:\\users\\bkaur\\source\\repos\\musicserver\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|c:\\users\\bkaur\\source\\repos\\musicserver\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|solutionrelative:data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|c:\\users\\bkaur\\source\\repos\\musicserver\\data\\migrations\\20240330232947_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|solutionrelative:data\\migrations\\20240330232947_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|c:\\users\\bkaur\\source\\repos\\musicserver\\data\\migrations\\20240330232947_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|solutionrelative:data\\migrations\\20240330232947_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|c:\\users\\bkaur\\source\\repos\\musicserver\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|c:\\users\\bkaur\\source\\repos\\musicserver\\data\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|solutionrelative:data\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|c:\\users\\bkaur\\source\\repos\\musicserver\\data\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|solutionrelative:data\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|c:\\users\\bkaur\\source\\repos\\musicserver\\musicserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|solutionrelative:musicserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|c:\\users\\bkaur\\source\\repos\\musicserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|c:\\users\\bkaur\\source\\repos\\musicserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|c:\\users\\bkaur\\source\\repos\\musicserver\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|c:\\users\\bkaur\\source\\repos\\musicserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BF39648-5ABC-48DE-A8DD-D2B991AF138B}|MusicServer.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherServer.http",
+              "DocumentMoniker": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\WeatherServer.http",
+              "RelativeDocumentMoniker": "WeatherServer.http",
+              "ToolTip": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\WeatherServer.http",
+              "RelativeToolTip": "WeatherServer.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-31T03:54:12.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T03:54:08.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAiwF8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T03:54:01.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240330232947_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\Data\\Migrations\\20240330232947_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240330232947_Initial.Designer.cs",
+              "ToolTip": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\Data\\Migrations\\20240330232947_Initial.Designer.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240330232947_Initial.Designer.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAiwGIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T03:53:52.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240330232947_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\Data\\Migrations\\20240330232947_Initial.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240330232947_Initial.cs",
+              "ToolTip": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\Data\\Migrations\\20240330232947_Initial.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240330232947_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T03:52:57.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:50:11.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\Data\\Models\\Playlist.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Playlist.cs",
+              "ToolTip": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\Data\\Models\\Playlist.cs",
+              "RelativeToolTip": "Data\\Models\\Playlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T20:19:08.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\Data\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Song.cs",
+              "ToolTip": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\Data\\Models\\Song.cs",
+              "RelativeToolTip": "Data\\Models\\Song.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T20:00:12.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:04:08.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\bkaur\\AppData\\Roaming\\Microsoft\\UserSecrets\\0a570993-8d2e-422d-be6d-a5e7b2a8301d\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\0a570993-8d2e-422d-be6d-a5e7b2a8301d\\secrets.json",
+              "ToolTip": "C:\\Users\\bkaur\\AppData\\Roaming\\Microsoft\\UserSecrets\\0a570993-8d2e-422d-be6d-a5e7b2a8301d\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\0a570993-8d2e-422d-be6d-a5e7b2a8301d\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-30T23:00:10.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MusicServer.csproj",
+              "DocumentMoniker": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\MusicServer.csproj",
+              "RelativeDocumentMoniker": "MusicServer.csproj",
+              "ToolTip": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\MusicServer.csproj",
+              "RelativeToolTip": "MusicServer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T19:42:51.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T04:09:47.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T04:09:29.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T01:47:29.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bkaur\\source\\repos\\MusicServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T01:47:19.849Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
