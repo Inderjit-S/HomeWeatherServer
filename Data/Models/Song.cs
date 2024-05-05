@@ -21,7 +21,8 @@ namespace MusicServer.Data.Models
 
         public string Genre { get; set; } = null!;
 
-        [ForeignKey(nameof(Playlist))]
+        //[ForeignKey(nameof(Playlist))]
+        [ForeignKey("playlistId")]
 
         public int PlaylistId { get; set; }
 

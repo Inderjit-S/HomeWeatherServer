@@ -22,8 +22,8 @@ namespace MusicServer.Data.Models
 
         #region Navigation Properties
 
-        public ICollection<Song>? Songs { get; set; } = null!;
-
+        //public ICollection<Song>? Songs { get; set; } = null!;
+        public ICollection<Song>? Songs { get; set; } = new List<Song>();
         #endregion
     }
 }

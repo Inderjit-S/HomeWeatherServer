@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Diagnostics.Metrics;
 using MusicServer.Data.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 namespace MusicServer.Data
 {
     public class ApplicationDbContext : DbContext

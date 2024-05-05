@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MusicServer.Data;
 using MusicServer.Data.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace MusicServer.Controllers
 {
