@@ -4,7 +4,7 @@ using MusicServer.Data.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 namespace MusicServer.Data
 {
-    public class ApplicationDbContext : DbContext
+    public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext() : base()
         {

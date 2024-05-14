@@ -12,7 +12,7 @@ namespace MusicServer.Data.Models
 
         [Key]
         [Required]
-        public int Id { get; set; }
+        public int PlaylistId { get; set; }
 
         public string Name { get; set; } = null!;
 

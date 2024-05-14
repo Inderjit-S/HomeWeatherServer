@@ -23,6 +23,7 @@ namespace MusicServer.Controllers
         }
 
         // GET: api/Songs
+        [Authorize]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Song>>> GetSongs()
         {
@@ -48,7 +49,7 @@ namespace MusicServer.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> PutSong(int id, Song song)
         {
-            if (id != song.Id)
+            if (id != song.SongId)
             {
                 return BadRequest();
             }
@@ -82,7 +83,7 @@ namespace MusicServer.Controllers
             _context.Songs.Add(song);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetSong", new { id = song.Id }, song);
+            return CreatedAtAction("GetSong", new { id = song.SongId }, song);
         }
 
         // DELETE: api/Songs/5
@@ -103,7 +104,7 @@ namespace MusicServer.Controllers
 
         private bool SongExists(int id)
         {
-            return _context.Songs.Any(e => e.Id == id);
+            return _context.Songs.Any(e => e.SongId == id);
         }
     }
 }

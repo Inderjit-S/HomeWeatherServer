@@ -13,7 +13,7 @@ namespace MusicServer.Data.Models
         #region Properties
         [Key]
         [Required]
-        public int Id { get; set; }
+        public int SongId { get; set; }
 
         public string Title { get; set; } = null!;
 
