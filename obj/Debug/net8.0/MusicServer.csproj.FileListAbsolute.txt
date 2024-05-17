@@ -395,3 +395,16 @@ C:\Users\bkaur\source\repos\MusicServer\bin\Debug\net8.0\Microsoft.AspNetCore.Id
 C:\Users\bkaur\source\repos\MusicServer\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\bkaur\source\repos\MusicServer\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\bkaur\source\repos\MusicServer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\bkaur\source\repos\MusicServer\bin\Debug\net8.0\appsettings.Production.json
+C:\Users\bkaur\source\repos\MusicServer\bin\Debug\net8.0\publish\web.config
+C:\Users\bkaur\source\repos\MusicServer\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\bkaur\source\repos\MusicServer\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\bkaur\source\repos\MusicServer\bin\Debug\net8.0\publish\appsettings.Production.json
+C:\Users\bkaur\source\repos\MusicServer\bin\Debug\net8.0\publish\MusicServer.deps.json
+C:\Users\bkaur\source\repos\MusicServer\bin\Debug\net8.0\publish\MusicServer.runtimeconfig.json
+C:\Users\bkaur\source\repos\MusicServer\bin\Debug\net8.0\publish\publish\web.config
+C:\Users\bkaur\source\repos\MusicServer\bin\Debug\net8.0\publish\publish\appsettings.Development.json
+C:\Users\bkaur\source\repos\MusicServer\bin\Debug\net8.0\publish\publish\appsettings.json
+C:\Users\bkaur\source\repos\MusicServer\bin\Debug\net8.0\publish\publish\appsettings.Production.json
+C:\Users\bkaur\source\repos\MusicServer\bin\Debug\net8.0\publish\publish\MusicServer.deps.json
+C:\Users\bkaur\source\repos\MusicServer\bin\Debug\net8.0\publish\publish\MusicServer.runtimeconfig.json

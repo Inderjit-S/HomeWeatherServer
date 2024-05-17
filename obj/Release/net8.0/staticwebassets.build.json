@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s0FXdezM4hKCIhmbw2SCXl6Xp1wsZjTQcBhB+zm5cSI=",
+  "Source": "MusicServer",
+  "BasePath": "_content/MusicServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
